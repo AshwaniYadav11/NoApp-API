@@ -3,7 +3,7 @@
 Sets of APIs for a JWT authenticated user to upload contact profile via csv file or to view the uploaded contacts, below is the documentation of the APIs.
 
 ### api endpoint : ./auth/register | Request type: POST ###
-Whenever a new user try to access the contact api first he nead to register using a valid username and password.
+Whenever a new user try to access the contact api first he need to register using a valid username and password.
 
 Password Constraint:
 [![image](https://www.linkpicture.com/q/password-length-for-user-login.jpg)](https://www.linkpicture.com/view.php?img=LPic63a453b9628eb1624111349)
